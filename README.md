@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Muthee</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate software developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eroom8&label=Profile%20views&color=0e75b6&style=flat" alt="eroom8" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ericmuthee.vercel.app/](https://eroom8.vercel.app/)
 
-- 💬 Ask me about **frontend development**
+- 💬 Ask me about **coding **
 
 - 📫 How to reach me **Eroom1998@gmail.com**
 
