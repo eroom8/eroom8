@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **nextjs, mongodb**
 
-- 👨‍💻 All of my projects are available at [https://ericmuthee.vercel.app/](https://eroom8.vercel.app/)
+- 👨‍💻 All of my projects are available at [http://eroom8.vercel.app/](https://eroom8.vercel.app/)
 
 - 💬 Ask me about **coding **
 
-- 📫 How to reach me **Eroom1998@gmail.com**
+- 📫 How to reach me **Eroom1998@gmail.com** **mutheee57@gmail.com**
 
 - ⚡ Fun fact **Life is short, Be happy**
 
