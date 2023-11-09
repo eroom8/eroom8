@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **nextjs, mongodb**
 
-- 👨‍💻 All of my projects are available at [https://active-portfolio-ten.vercel.app/](https://eroom8.vercel.app/)
-
+- 👨‍💻 All of my projects are available at [https://eroom8.vercel.app/](https://eroom8.vercel.app/)
+- 
 - 💬 Ask me about **frontend development**
 
 - 📫 How to reach me **Eroom1998@gmail.com** || **mutheee57@gmail.com**
