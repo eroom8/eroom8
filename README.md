@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Freelancing Web, Mobile development<br>🌱 I’m currently learning nextjs & mongodb  <br>👨‍💻 All of my projects are available at https://https://officialportfolio.vercel.app/<br>💬 Ask me about web & mobile development<br>📫 How to reach me Eroom1998@gmail.com || mutheee57@gmail.com<br>⚡ Fun fact Life is short, Be happy
+🔭 I’m currently working on Freelancing Web, Mobile development<br>🌱 I’m currently learning nextjs & mongodb  <br>👨‍💻 All of my projects are available at 
+ officialportfolio.vercel.app/<br>💬 Ask me about web & mobile development<br>📫 How to reach me Eroom1998@gmail.com || mutheee57@gmail.com<br>⚡ Fun fact Life is short, Be happy
 
 
 ## 🌐 Socials:
